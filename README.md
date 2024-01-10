@@ -1,5 +1,5 @@
 # Interpreter for the TextJedi language
-It's an interpreter for an imaginary programming language TextJedi.
+It's an interpreter for an imaginary programming language TextJedi. It was an assignment from the Programming Languages lecture.
 
 TextJedi is designed for editing text files mainly by cutting and
 pasting operations.
