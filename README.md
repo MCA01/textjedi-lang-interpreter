@@ -46,15 +46,11 @@ MyText:= FirstText+SecondText;`
  
 
 ## Commands:
-`read myString from myTextFile; /* Reads a string from a text file called`
+`read myString from myTextFile; /* Reads a string from a text file called myTextFile.txt Please note that there is no size limit*/`
 
-`myTextFile.txt Please note that there is no size limit*/`
+`write myText to yourTextFile; /* Write the string called myText onto a text file named as yourTextFile */`
 
-`write myText to yourTextFile; /* Write the string called myText onto a
-text file named as yourTextFile */`
-
-`input myText prompt promptText; /* Receive input from keyboard into
-myText. Use promptText as a prompt. Max 100 characters buffer is enough*/`
+`input myText prompt promptText; /* Receive input from keyboard into myText. Use promptText as a prompt. Max 100 characters buffer is enough*/`
 
 `output myText; /* Write myText on the screen*/`
 
